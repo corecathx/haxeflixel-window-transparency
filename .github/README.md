@@ -7,6 +7,9 @@ This repo shows how to make your HaxeFlixel window to be transparent without get
 > [!NOTE]
 > This method is Windows only.
 
+> [!WARNING]
+> This makes the window borderless and clicks will **not** pass through transparent pixels.
+
 ## Setup
 1. Copy and import [FlxWindowUtil.hx](../FlxWindowUtil.hx) into your project's source folder.
 2. In your `Project.xml`, find the `<window>` tag and set `background="null"`:
