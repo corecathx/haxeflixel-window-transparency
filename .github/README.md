@@ -1,6 +1,6 @@
 # HaxeFlixel Window Transparency
 
-This repo shows how to make your HaxeFlixel window to be transparent without getting those black pixels on semi transparent pixels.
+A method to make your HaxeFlixel window to be transparent.
 
 ![](images/transparency-preview.png)
  
