@@ -20,9 +20,9 @@ This repo shows how to make your HaxeFlixel window to be transparent without get
 ## Usage
 ```hx
 // enable transparency
-FlxWindowUtil.setTransparency(true)
+FlxWindowUtil.setTransparency(true);
 // disable transparency
-FlxWindowUtil.setTransparency(false)
+FlxWindowUtil.setTransparency(false);
 ```
 
 ## Credits
